@@ -1,0 +1,18 @@
+* {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+	margin: 0;
+}
+
+header {
+	background-color: deepskyblue;
+	color: #000;
+	padding: 20px;
+	border-bottom: double 3px black;
+}
+
+input {
+	font-size: 16px;
+}
